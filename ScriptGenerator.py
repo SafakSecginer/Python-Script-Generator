@@ -12,7 +12,7 @@ def readContent():
 
         break
 
-    fileNumber = 0
+    fileNumber = 0 #merhaba
 
     #If we want read contents and print them to the console...
 
